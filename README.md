@@ -7,11 +7,11 @@ O site deverá ter duas telas, uma delas com a opção de entrada de dados, onde
 Após digitar o texto, o usuário irá clicar no botão "Criptografar" e a mensagem será codificada e estará disponível para o usuário copiar e enviar para quem desejar.
 
 Segue as regras usadas para codificar as mensagens:
-A letra "e" é convertida para "enter"
-A letra "i" é convertida para "imes"
-A letra "a" é convertida para "ai"
-A letra "o" é convertida para "ober"
-A letra "u" é convertida para "ufat"
+- A letra "e" é convertida para "enter";
+- A letra "i" é convertida para "imes";
+- A letra "a" é convertida para "ai";
+- A letra "o" é convertida para "ober";
+- A letra "u" é convertida para "ufat";
 
 Requisitos:
 
@@ -25,4 +25,4 @@ gaitober" => "gato"
 
 Segue abaixo print do site funcionando:
 
-![Desafio Alura](C:\Users\vfdes\Desktop\Desafio Alura.PNG)
+![Desafio Alura](C:\DEV\8_Oracle_Next_Education\Decodificador de Texto - Alura Challenges Oracle ONE\project\Desafio Alura.PNG)
