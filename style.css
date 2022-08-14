@@ -1,0 +1,14 @@
+#title {
+    font: optional;
+    font-size: large;
+}
+
+#input {
+    width: 30rem;
+    height: 15rem;
+}
+
+#output {
+    width: 30rem;
+    height: 15rem;
+}
