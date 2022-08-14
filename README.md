@@ -25,4 +25,4 @@ gaitober" => "gato"
 
 Segue abaixo print do site funcionando:
 
-![Desafio Alura](C:\DEV\8_Oracle_Next_Education\Decodificador de Texto - Alura Challenges Oracle ONE\project\Desafio Alura.PNG)
+![...](https://ibb.co/M8WKqSB)
