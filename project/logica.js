@@ -32,7 +32,7 @@ function descripto() {
 }
 
 function copiar() {
-    var input = document.getElementById("input").value;
-    navigator.clipboard.writeText(input);
+    var output = document.getElementById("output").value;
+    navigator.clipboard.writeText(output);
     alert("Texto copiado!");
 }
