@@ -22,6 +22,3 @@ Requisitos:
 Exemplo de codificação:
 "gato" => "gaitober"
 gaitober" => "gato"
-
-Segue abaixo print do site funcionando:
-<img width="400" height="300" src="decodificador-de-texto-challengeone/Desafio Alura.PNG"/>
