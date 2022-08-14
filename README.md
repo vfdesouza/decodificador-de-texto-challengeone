@@ -24,4 +24,4 @@ Exemplo de codificação:
 gaitober" => "gato"
 
 Segue abaixo print do site funcionando:
-<img height="300px" src=""https://uploaddeimagens.com.br/imagens/123WTCc"/>
+<img width="400" height="300" src="decodificador-de-texto-challengeone/Desafio Alura.PNG"/>
